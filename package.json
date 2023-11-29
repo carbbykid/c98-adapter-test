@@ -31,6 +31,8 @@
     "@coin98t/wallet-adapter-trezor": "^0.0.48",
     "@coin98t/wallet-adapter-trust-wallet": "^0.0.48",
     "@coin98t/wallet-adapter-walletconnect": "^0.0.48",
+    "eth-sig-util": "^3.0.1",
+    "ethereumjs-util": "^7.1.5",
     "@cosmjs/amino": "^0.31.3",
     "@cosmjs/cosmwasm-stargate": "^0.31.1",
     "@cosmjs/crypto": "^0.31.3",
