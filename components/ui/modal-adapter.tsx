@@ -27,9 +27,9 @@ const Coin98AdapterModal = () => {
     seiTestnet,
     nearMainnet,
     nearTestnet,
-    injectiveTestnet,
-    injectiveMainnet,
-    injectiveEthereumMainnet,
+    // injectiveTestnet,
+    // injectiveMainnet,
+    // injectiveEthereumMainnet,
     bscTest,
     ...evmChains,
   ];
